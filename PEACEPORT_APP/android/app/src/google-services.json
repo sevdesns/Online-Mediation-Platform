@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757983774549",
+    "project_id": "flutter-uber-clone-with-d2002",
+    "storage_bucket": "flutter-uber-clone-with-d2002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757983774549:android:28ed7bdf2b25b2150411dc",
+        "android_client_info": {
+          "package_name": "com.sevde.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALArOPRuDs6tYyTkNLnByiOq8P4H00LFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

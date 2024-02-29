@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "58963407730",
+    "project_id": "peace-8cae8",
+    "storage_bucket": "peace-8cae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58963407730:android:6404ffc400c62c1f7a23eb",
+        "android_client_info": {
+          "package_name": "com.sevde.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58963407730-b9b23urndjqt5qkk9r58uht6ktcnd5kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sevde.usersapp",
+            "certificate_hash": "760f704297a57a59070a8269b0dd5ad5acd51dd5"
+          }
+        },
+        {
+          "client_id": "58963407730-4fpfpo4nf6govfa2kpgr3h0mg6t15cpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYssexuXyUy5rekL4cQf6Xo3qE5MCUZwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58963407730-4fpfpo4nf6govfa2kpgr3h0mg6t15cpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58963407730-v3plts8th30prep06nppjfcanmufs1jt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.peace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

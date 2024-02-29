@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAjkEQxkKwFmcVP7DH8u6Za3g5vwrBcZps</string>
+	<key>GCM_SENDER_ID</key>
+	<string>757983774549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.peace</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-uber-clone-with-d2002</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-uber-clone-with-d2002.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:757983774549:ios:a81f7d4f636d82f40411dc</string>
+</dict>
+</plist>
